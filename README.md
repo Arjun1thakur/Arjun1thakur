@@ -17,12 +17,12 @@
 <dt>❗ Why I started as a programmer ❓</dt>
   <dd>Since I was a kid, I’ve always loved to know how machines work and how it takes our commands.</dd>
 <dt>❤️‍🔥 Things I love</dt>
-  <dd>🎮 Gaming <br>
-    👨‍💻 Coding  <br>
-    🎨 Design  <br>
-    Watching Anime😅    <br>
-    ☕ Coffee and chocolate croissants.    <br>
-    🗺️ Traveling, adventures and exploring new cultures.</dd>
+  <dd>Gaming 🎮<br>
+    Coding 👨‍💻 <br>
+    Design 🎨 <br>
+    Watching Anime 😅<br>
+    Coffee and chocolate croissants. ☕   <br>
+    Traveling, adventures and exploring new cultures. 🗺️</dd>
 </dl>
 <h1>⬐Feel Free To Get In Touch With Me</h1>
 <a href="https://www.facebook.com/A.arjunthakur1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="logo"></a>
