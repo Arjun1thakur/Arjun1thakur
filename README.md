@@ -1,6 +1,6 @@
 <h1>👋 Hi Everyone,</h1>
 <ul>
-<li>I’m Arjun thakur</li>
+<li>😎 I’m Arjun thakur</li>
 <li>🌍 I'm based in India</li>
 <li>🖥️ See my portfolio at <a href="https://arjun1thakur.github.io/Single-page-detail/">AJfolio</li>
 <li>🧠 I'm learning Data Structures & Algorithms</li>
