@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Arjun thakur
+- <h1>👋 Hi Everyone,<h1>
+- I’m Arjun thakur
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at <a href="face">AJfolio</a>
 - 🧠 I'm learning Data Structures & Algorithms
