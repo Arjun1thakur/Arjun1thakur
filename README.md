@@ -1,4 +1,5 @@
 <h1>👋 Hi Everyone,<h1>
+  
 - I’m Arjun thakur
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at <a href="https://arjun1thakur.github.io/Single-page-detail/">AJfolio</a>
