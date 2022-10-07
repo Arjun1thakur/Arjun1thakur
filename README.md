@@ -8,7 +8,7 @@
 <li>🤝 I'm open to collaborating on interesting projects</li>
 <li>✉️ You can contact me at <a href="mailto:sr.arjunthakur@gmail.com">sr.arjunthakur@gmail.com</a></li>
 </ul>
-<h1>⬐Qucik Facts About Me↴</h1>
+<h1>⬐Qucik Facts About Me</h1>
 <dl>
 <dt>🏡 Home town</dt>
   <dd>Agra, Uttar Pradesh, 🇮🇳</dd>
