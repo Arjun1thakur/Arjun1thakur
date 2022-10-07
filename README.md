@@ -1,4 +1,4 @@
-<h1>👋 Hi Everyone,<h1>
+<h1>👋 Hi Everyone,</h1>
   
 - I’m Arjun thakur
 - 🌍 I'm based in India
