@@ -1,14 +1,7 @@
-<h1>👋 Hi Everyone,</h1>
-<ul>
-<li>😎 I’m Arjun thakur</li>
-<li>🌍 I'm based in India</li>
-<li>🖥️ See my portfolio at <a href="https://arjun1thakur.github.io/Single-page-detail/">AJfolio</li>
-<li>🧠 I'm learning Data Structures & Algorithms</li>
-<li>👀 I’m interested in new technologies</li>
-<li>🤝 I'm open to collaborating on interesting projects</li>
-<li>✉️ You can contact me at <a href="mailto:sr.arjunthakur@gmail.com">sr.arjunthakur@gmail.com</a></li>
-</ul>
-<h1>⬐Qucik Facts About Me</h1>
+# ***👋 Hi Everyone,***
+*😎 I’m Arjun thakur<br>🌍 I'm based in India<br>🖥️ See my portfolio at [AJfolio](https://arjun1thakur.github.io/Single-page-detail/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at sr.arjunthakur@gmail.com*
+
+# ***⬐Qucik Facts About Me:***
 <dl>
 <dt>🏡 Home town</dt>
   <dd>Agra, Uttar Pradesh, 🇮🇳</dd>
