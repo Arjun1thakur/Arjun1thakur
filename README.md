@@ -24,10 +24,6 @@
     Coffee and chocolate croissants. ☕   <br>
     Traveling, adventures and exploring new cultures. 🗺️</dd>
 </dl>
-<h1>⬐Feel Free To Get In Touch With Me</h1>
-<a href="https://www.facebook.com/A.arjunthakur1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="logo"></a>
-<a href="https://www.instagram.com/aj_ajju_thakur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="logo"></a>
-<a href="https://wa.me/8433075934?text=Hii" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo"></a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arjun1thakur&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -41,7 +37,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
+## 🌐 Feel Free To Get In Touch With Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/A.arjunthakur1/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aj_ajju_thakur/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8433075934?text=Hii)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arjun1thakur&icon=5&color=6)](https://visitcount.itsvg.in)
