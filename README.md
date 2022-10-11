@@ -35,4 +35,4 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8433075934?text=Hii)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arjun1thakur&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arjun1thakur&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
