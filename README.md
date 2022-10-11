@@ -2,7 +2,7 @@
 ***😎 I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://arjun1thakur.github.io/Single-page-detail/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at sr.arjunthakur@gmail.com***
 ![](https://www.facebook.com/photo/?fbid=1829833787210404&set=a.244675852392880)
 
-# ***💫 Qucik Facts About Me:***
+# ***💫 Quick Facts About Me:***
 <dl>
 <dt>🏡 Home town</dt>
   <dd>Agra, Uttar Pradesh, 🇮🇳</dd>
@@ -16,7 +16,7 @@
     Design 🎨 <br>
     Watching Anime 😅<br>
     Coffee and chocolate croissants. ☕   <br>
-    Traveling, adventures and exploring new cultures. 🗺️</dd>
+    Traveling, adventures, and exploring new cultures. 🗺️</dd>
 </dl>
 
 ## 📊 GitHub Stats:
