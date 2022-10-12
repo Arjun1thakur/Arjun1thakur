@@ -1,5 +1,5 @@
 # ***👋 Hi Everyone,***
-  <img align="right" alt="GIF" src="pngwing.com.png" width="auto" height="200" />
+  <img align="right" alt="GIF" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="300" height="auto" />
 	
 ***😎I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://arjun1thakur.netlify.app/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at sr.arjunthakur@gmail.com***
 # ***💫 Quick Facts About Me:***
