@@ -44,8 +44,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aj_ajju_thakur/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8433075934?text=Hii)
 
-____
+----------
 
-<a align="center"	href="https://visitcount.itsvg.in">
-  <img	src="https://visitcount.itsvg.in/api?id=arjun1thakur&label=Profile%20Views&pretty=true" />
+<a href="https://visitcount.itsvg.in" >
+  <img src="https://visitcount.itsvg.in/api?id=arjun1thakur&label=Profile%20Views&pretty=true" />
 </a>
+
+<p align="center">	</> & Crafted with 💛 Arjun Singh</p>
