@@ -1,5 +1,5 @@
 # ***👋 Hi Everyone,***
-  <img align="right" alt="GIF" src="pngwing.com.png" width="550" height="200" />
+  <img align="right" alt="GIF" src="pngwing.com.png" width="auto" height="200" />
 	
 ***😎I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://arjun1thakur.netlify.app/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at sr.arjunthakur@gmail.com***
 # ***💫 Quick Facts About Me:***
@@ -44,10 +44,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aj_ajju_thakur/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8433075934?text=Hii)
 
-----------
-
+<h1></h1>
 <a href="https://visitcount.itsvg.in" >
   <img src="https://visitcount.itsvg.in/api?id=arjun1thakur&label=Profile%20Views&pretty=true" />
 </a>
-
+<br>
 <p align="center">	</> & Crafted with 💛 Arjun Singh</p>
