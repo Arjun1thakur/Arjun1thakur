@@ -1,7 +1,7 @@
-# ***👋 Hi Everyone,***
+# ***👋  Hi Everyone,***
   <img align="right" alt="GIF" src="https://github.com/Arjun1thakur/Arjun1thakur/blob/main/coworking-male-programmer-writing-program-code%20(1).gif" width="300" height="auto" />
 	
-***😎I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://arjun1thakur.netlify.app/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at sr.arjunthakur@gmail.com***
+***😎 I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://portfolio-tau-one-92.vercel.app/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at arjunthakur89096@gmail.com***
 # ***💫 Quick Facts About Me:***
 <dl>
 <dt>🏡 Home town</dt>
@@ -9,7 +9,7 @@
 <dt>👨‍💻 When I started as a programmer</dt>
   <dd>2021 (In search of doing something new).</dd>
 <dt>❗ Why I started as a programmer ❓</dt>
-  <dd>Since I was a kid, I’ve always loved to know how machines work and how it takes our commands.</dd>
+  <dd>Since a young age, I've been fascinated by how web technologies function and respond to user input, fueling my passion for web development and innovative solutions.</dd>
 <dt>❤️‍🔥 Things I love</dt>
   <dd>Gaming 🎮<br>
     Coding 👨‍💻 <br>
