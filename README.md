@@ -1,7 +1,7 @@
 # ***👋  Hi Everyone,***
   <img align="right" alt="GIF" src="https://github.com/Arjun1thakur/Arjun1thakur/blob/main/coworking-male-programmer-writing-program-code%20(1).gif" width="300" height="auto" />
 	
-***😎 I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://portfolio-tau-one-92.vercel.app/)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at arjunthakur89096@gmail.com***
+***😎 I’m Arjun thakur<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](https://arjunthakur.in)<br>🧠 I'm learning Data Structures & Algorithms<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at arjunthakur89096@gmail.com***
 # ***💫 Quick Facts About Me:***
 <dl>
 <dt>🏡 Home town</dt>
